@@ -9,8 +9,11 @@ Estas regras valem para todos os repositórios da organização GamificaPampa.
 | Página do site do hub               | `gamificapampa.github.io`                  |
 | Jogo ou material para crianças      | `recursos-pedagogicos/criancas/<nome>/`    |
 | Material de formação de professores | `recursos-pedagogicos/professores/<nome>/` |
+| Kit do formador (só a equipe)       | `equipe/<formacao>/` (privado)             |
 | Logo, mascote, fonte ou cor         | `identidade-visual`                        |
 | Slides de uma palestra              | `apresentacoes/AAAA-MM-DD-evento-cidade/`  |
+
+O repositório `equipe` é privado e não vai para o site. Nele fica o que só quem conduz uma formação usa (roteiro, slides dos encontros, folhas para imprimir, certificado, convite e proposta) e as anotações internas. O que os professores participantes usam continua em `recursos-pedagogicos`.
 
 ## Regras
 
