@@ -19,5 +19,6 @@ Site: [gamificapampa.github.io](https://gamificapampa.github.io)
 | [recursos-pedagogicos](https://github.com/GamificaPampa/recursos-pedagogicos)       | Jogos para crianças e materiais de formação de professores |
 | [identidade-visual](https://github.com/GamificaPampa/identidade-visual)             | Logos, mascote Bit, fonte Fredoka e cores                  |
 | [apresentacoes](https://github.com/GamificaPampa/apresentacoes)                     | Slides das palestras, uma pasta por evento                 |
+| [publicador](https://github.com/GamificaPampa/publicador)                           | Página que publica o jogo que o professor criou com a IA   |
 
 Contato: paulosilas@unipampa.edu.br e silvioquincozes@unipampa.edu.br
