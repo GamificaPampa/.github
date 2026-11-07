@@ -1,7 +1,7 @@
 ---
 name: Novo recurso pedagógico
 about: Proponha um jogo ou material para crianças ou professores
-labels: recurso
+labels: enhancement
 ---
 
 **Nome do recurso:**
